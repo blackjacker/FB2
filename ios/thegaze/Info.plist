@@ -7,14 +7,14 @@
     <dict>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>fb{app ID}</string>
+        <string>fb1250993478266975</string>
       </array>
     </dict>
   </array>
   <key>FacebookAppID</key>
-  <string>{app ID}</string>
+  <string>1250993478266975</string>
   <key>FacebookDisplayName</key>
-  <string>{app name}</string>
+  <string>WholifitApp</string>
   <key>LSApplicationQueriesSchemes</key>
   <array>
     <string>fbapi</string>
