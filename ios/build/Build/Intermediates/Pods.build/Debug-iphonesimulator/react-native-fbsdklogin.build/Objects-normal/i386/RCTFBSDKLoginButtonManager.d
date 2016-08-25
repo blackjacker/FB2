@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native-fbsdk/iOS/login/iOS/RCTFBSDKLoginButtonManager.m \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/Target\ Support\ Files/react-native-fbsdklogin/react-native-fbsdklogin-prefix.pch \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native-fbsdk/iOS/login/iOS/RCTFBSDKLoginButtonManager.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Layout/Layout.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/Headers/Public/React/RCTUtils.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/ios/Pods/Headers/Public/React/UIView+React.h \
+  /Users/computacionyelectronica/Documents/7NV/fb/node_modules/react-native-fbsdk/iOS/login/iOS/RCTConvert+FBSDKLogin.h
